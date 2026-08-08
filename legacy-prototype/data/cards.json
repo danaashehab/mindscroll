@@ -1,0 +1,306 @@
+[
+  {
+    "id": "biz-001",
+    "group": "The World",
+    "category": "Business & Economics",
+    "levelNum": 1,
+    "title": "The Cobra Effect: Perverse Incentives",
+    "level1": {
+      "summary": "When a reward or policy produces the exact opposite result of what was intended due to unintended human behavioral loopholes."
+    },
+    "level2": {
+      "howItWorks": "When the British government offered a bounty for dead cobras in Delhi to reduce snake population, citizens began breeding cobras to collect money. When the bounty was cancelled, breeders released the useless snakes, making the problem worse.",
+      "whyItMatters": "It demonstrates why economic policies and corporate incentives must account for strategic human gaming.",
+      "example": "Offering programmers bonuses per line of code written leads to bloated, inefficient code rather than better software.",
+      "sourceReference": { "name": "Harvard Business Review (Behavioral Economics)", "url": "https://hbr.org/2012/09/the-cobra-effect-in-business" },
+      "resources": [
+        { "type": "article", "title": "Perverse Incentives & The Cobra Effect — Wikipedia", "url": "https://en.wikipedia.org/wiki/Perverse_incentive" }
+      ]
+    }
+  },
+  {
+    "id": "myth-001",
+    "group": "The World",
+    "category": "Mythology",
+    "levelNum": 1,
+    "title": "The Myth of Icarus & Daedalus",
+    "level1": {
+      "summary": "Icarus flew too close to the sun with wings made of wax and feathers. The myth serves as a timeless warning against hubris and neglecting balanced boundaries."
+    },
+    "level2": {
+      "howItWorks": "Daedalus warned his son neither to fly too low (where sea dampness weighs down wings) nor too high (where solar heat melts wax). Driven by euphoria, Icarus ignored the middle path.",
+      "whyItMatters": "Modern literature and psychology use Icarus to illustrate the danger of uncontrolled ambition and neglecting realistic constraints.",
+      "example": "Overhyped startups overspending during boom periods often suffer an 'Icarus collapse' when economic conditions turn cold.",
+      "sourceReference": { "name": "Stanford Encyclopedia of Philosophy (Classical Archetypes)", "url": "https://plato.stanford.edu/entries/greek-mythology/" },
+      "resources": [
+        { "type": "article", "title": "Daedalus & Icarus — Encyclopedia Britannica", "url": "https://www.britannica.com/topic/Daedalus-Greek-mythology" }
+      ]
+    }
+  },
+  {
+    "id": "islam-001",
+    "group": "The World",
+    "category": "Islam & Wisdom",
+    "levelNum": 1,
+    "title": "Ibn Khaldun & The Social Cycle of Civilizations",
+    "level1": {
+      "summary": "14th-century scholar Ibn Khaldun pioneered Sociology by analyzing how nations rise through group solidarity ('Asabiyyah') and fall through luxury."
+    },
+    "level2": {
+      "howItWorks": "In his masterwork 'The Muqaddimah', he mapped a 4-generation cycle: initial group toughness and unity → prosperity and urban growth → luxury and bureaucracy → loss of social cohesion and collapse.",
+      "whyItMatters": "Historians recognize him as the founding pioneer of Sociology, Historiography, and Political Economy.",
+      "example": "Ancient empires conquered vast lands while frugal and united, but fragmented generations later when ruling elites prioritized lavish luxury over governance.",
+      "sourceReference": { "name": "UNESCO General History & Historiography Archives", "url": "https://en.wikipedia.org/wiki/Muqaddimah" },
+      "resources": [
+        { "type": "book", "title": "The Muqaddimah: An Introduction to History — Princeton University Press", "url": "https://press.princeton.edu/books/paperback/9780691166728/the-muqaddimah" }
+      ]
+    }
+  },
+  {
+    "id": "hist-001",
+    "group": "The World",
+    "category": "History, Society & Anthropology",
+    "levelNum": 1,
+    "title": "The House of Wisdom & Scholars",
+    "level1": {
+      "summary": "During the 9th century, Baghdad established a global intellectual hub where scholars translated, preserved, and expanded human scientific knowledge."
+    },
+    "level2": {
+      "howItWorks": "Scholars translated classical texts from Greek, Persian, and Indian traditions into Arabic, developing systematic empirical techniques in optics, algebra, and medicine.",
+      "whyItMatters": "It bridged ancient classical knowledge with the European Renaissance, laying the foundation for modern mathematics.",
+      "example": "The word 'Algorithm' stems directly from Al-Khwarizmi, whose algebraic formulas power computing today.",
+      "sourceReference": { "name": "British Museum History Archives", "url": "https://www.britishmuseum.org" },
+      "resources": [
+        { "type": "article", "title": "House of Wisdom — Encyclopedia Britannica", "url": "https://www.britannica.com/topic/House-of-Wisdom" }
+      ]
+    }
+  },
+  {
+    "id": "psych-001",
+    "group": "The Mind",
+    "category": "Psychology",
+    "levelNum": 1,
+    "title": "The Dunning-Kruger Effect",
+    "level1": {
+      "summary": "Beginners in a subject often dramatically overestimate their understanding because they lack the knowledge required to recognize their own ignorance."
+    },
+    "level2": {
+      "howItWorks": "Competence requires metacognition—the ability to evaluate your own skill level. Beginners lack metacognition in new domains, misinterpreting initial simplicity for complete mastery.",
+      "whyItMatters": "Awareness of this cognitive bias helps maintain intellectual humility and prevents overconfident mistakes in business, science, and life.",
+      "example": "Someone reading one article on economics feels ready to solve global inflation, whereas a PhD economist admits how complex market variables really are.",
+      "sourceReference": { "name": "Journal of Personality and Social Psychology (APA)", "url": "https://psycnet.apa.org/record/1999-15054-002" },
+      "resources": [
+        { "type": "video", "title": "Why Incompetent People Think They're Amazing — TED-Ed", "url": "https://www.youtube.com/watch?v=pOLmD_WVY-E" }
+      ]
+    }
+  },
+  {
+    "id": "neuro-001",
+    "group": "The Mind",
+    "category": "Neuroscience",
+    "levelNum": 1,
+    "title": "Neuroplasticity: The Rewiring Brain",
+    "level1": {
+      "summary": "Your brain physically restructures its connections every time you learn a new skill, form a habit, or adapt to new experiences."
+    },
+    "level2": {
+      "howItWorks": "Neurons that fire together wire together. Repeating an activity strengthens synaptic connections, adding myelin sheaths around neural pathways to speed up signal transmission.",
+      "whyItMatters": "It proves scientifically that age is no barrier to learning new skills and unlearning toxic habits or cognitive patterns.",
+      "example": "When learning piano, your fingers feel clumsy because the neural circuit is weak. After 30 days of practice, the pathway becomes an automatic high-speed highway.",
+      "sourceReference": { "name": "Nature Reviews Neuroscience", "url": "https://www.nature.com/nrn/" },
+      "resources": [
+        { "type": "video", "title": "After Watching This, Your Brain Will Not Be the Same — TED-Ed", "url": "https://www.youtube.com/watch?v=LNHBMFCzznE" }
+      ]
+    }
+  },
+  {
+    "id": "philo-001",
+    "group": "The Mind",
+    "category": "Philosophy & Thinking",
+    "levelNum": 1,
+    "title": "The Stoic Dichotomy of Control",
+    "level1": {
+      "summary": "Dividing all life events into two buckets: things you control (your thoughts, actions, reactions) and things you do not (other people, weather, outcomes)."
+    },
+    "level2": {
+      "howItWorks": "Formulated by Epictetus, this principle directs mental energy exclusively toward internal responses rather than external circumstances.",
+      "whyItMatters": "It builds emotional resilience, reducing burnout and panic during unexpected crises.",
+      "example": "You cannot control an unexpected flight delay, but you have complete control over whether you use the wait to read a book or vent in anger.",
+      "sourceReference": { "name": "Stanford Encyclopedia of Philosophy (Stoicism)", "url": "https://plato.stanford.edu/entries/stoicism/" },
+      "resources": [
+        { "type": "book", "title": "Meditations by Marcus Aurelius — Internet Classics Archive", "url": "http://classics.mit.edu/Aurelius/meditations.html" }
+      ]
+    }
+  },
+  {
+    "id": "astro-001",
+    "group": "Science",
+    "category": "Astronomy",
+    "levelNum": 1,
+    "title": "Time Dilation: Gravity Bends Time",
+    "level1": {
+      "summary": "Time does not tick at a constant rate across the universe. Near massive objects or at extreme speeds, time literally moves slower."
+    },
+    "level2": {
+      "howItWorks": "Einstein's Theory of General Relativity proved that mass warps spacetime. The stronger the gravitational force, the more spacetime curves, slowing the passage of time relative to an outside observer.",
+      "whyItMatters": "GPS satellites orbiting Earth must adjust their internal clocks daily by 38 microseconds; otherwise, smartphone navigation would drift off by several miles a day.",
+      "example": "An astronaut lingering near the event horizon of a supermassive black hole for 1 hour would return to Earth to find that 7 human years have passed.",
+      "sourceReference": { "name": "NASA Astrophysics Data System (ADS)", "url": "https://ui.adsabs.harvard.edu" },
+      "resources": [
+        { "type": "video", "title": "Einstein's Relativity & Time Dilation — YouTube", "url": "https://www.youtube.com/watch?v=yuD34tEpRFw" }
+      ]
+    }
+  },
+  {
+    "id": "phys-001",
+    "group": "Science",
+    "category": "Physics",
+    "levelNum": 1,
+    "title": "Quantum Entanglement: Spooky Action",
+    "level1": {
+      "summary": "Two subatomic particles can become linked such that measuring the state of one instantly determines the state of the other, no matter how far apart."
+    },
+    "level2": {
+      "howItWorks": "When quantum systems interact, their wavefunctions combine. Changing a spin measurement on Particle A instantly collapse the measurement probability of Particle B, even if light-years apart.",
+      "whyItMatters": "It forms the foundational physics behind quantum computing, quantum cryptography, and atomic clocks.",
+      "example": "If you have a pair of shoes in separate boxes sent to opposite sides of the globe, opening one box and finding a Left shoe instantly reveals the other box has the Right shoe.",
+      "sourceReference": { "name": "Physical Review Letters (APS Physics)", "url": "https://journals.aps.org/prl/" },
+      "resources": [
+        { "type": "article", "title": "The Nobel Prize in Physics 2022: Quantum Entanglement", "url": "https://www.nobelprize.org/prizes/physics/2022/summary/" }
+      ]
+    }
+  },
+  {
+    "id": "bio-001",
+    "group": "Science",
+    "category": "Health & Biology",
+    "levelNum": 1,
+    "title": "The Gut-Brain Axis: Microbes & Mind",
+    "level1": {
+      "summary": "Your gastrointestinal tract contains over 100 million nerve cells communicating directly with your brain via the vagus nerve."
+    },
+    "level2": {
+      "howItWorks": "Gut microflora synthesize roughly 90% of the body's serotonin (the neurotransmitter regulating mood and sleep). Signals travel bidirectionally between gut and brain constantly.",
+      "whyItMatters": "Dietary choices directly affect mental clarity, mood stability, and immune system performance.",
+      "example": "Feeling 'butterflies in your stomach' during nervousness is your vagus nerve transmitting emotional stress directly into digestive muscle contractions.",
+      "sourceReference": { "name": "PubMed Central (US National Library of Medicine)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4367209/" },
+      "resources": [
+        { "type": "video", "title": "How Your Microbiome Controls Your Mind — Kurzgesagt", "url": "https://www.youtube.com/watch?v=VzPD009qTN4" }
+      ]
+    }
+  },
+  {
+    "id": "tech-001",
+    "group": "Science",
+    "category": "Technology",
+    "levelNum": 1,
+    "title": "Transformer Architecture in AI",
+    "level1": {
+      "summary": "The breakthrough neural network design introduced in 2017 that allows AI to process entire sequences of data at once using 'self-attention'."
+    },
+    "level2": {
+      "howItWorks": "Older networks analyzed text linearly. Transformers compute mathematical attention scores between every word in a sentence simultaneously, understanding subtle context and nuanced relationships.",
+      "whyItMatters": "It unlocked massive scaling in machine learning, enabling models to write code, analyze medical scans, and converse like humans.",
+      "example": "In the sentence 'The bank of the river', the transformer assigns high attention weight between 'bank' and 'river' to distinguish it from a financial bank.",
+      "sourceReference": { "name": "MIT Technology Review / arXiv", "url": "https://arxiv.org/abs/1706.03762" },
+      "resources": [
+        { "type": "article", "title": "Attention Is All You Need — arXiv Research Paper", "url": "https://arxiv.org/abs/1706.03762" }
+      ]
+    }
+  },
+  {
+    "id": "myst-001",
+    "group": "Curiosity",
+    "category": "Mysteries",
+    "levelNum": 1,
+    "title": "The Wow! Signal: Unsolved Cosmic Emission",
+    "level1": {
+      "summary": "In 1977, a radio telescope detected a powerful 72-second narrow-band signal from deep space that has never been detected since."
+    },
+    "level2": {
+      "howItWorks": "Astronomer Jerry R. Ehman circled the printout data '6EQUJ5' and wrote 'Wow!'. The signal bore all expected markers of an interstellar transmission, yet repeated observations of the same celestial patch yielded silence.",
+      "whyItMatters": "It remains one of astronomy's most intriguing unsolved signals, prompting ongoing debates between natural comet emissions and potential extraterrestrial radio sources.",
+      "example": "Like hearing a single loud knock on a door at night—despite monitoring the door for years, the knock never repeats.",
+      "sourceReference": { "name": "The Astronomical Journal", "url": "https://iopscience.iop.org/journal/0004-6256" },
+      "resources": [
+        { "type": "article", "title": "The Wow! Signal — Ohio State University Radio Observatory", "url": "http://www.bigear.org/wow.htm" }
+      ]
+    }
+  },
+  {
+    "id": "creat-001",
+    "group": "Curiosity",
+    "category": "Creativity",
+    "levelNum": 1,
+    "title": "The Golden Ratio in Design & Nature",
+    "level1": {
+      "summary": "A mathematical proportion (approx 1.618) found repeatedly in nature, architecture, and art that human eyes perceive as naturally harmonious."
+    },
+    "level2": {
+      "howItWorks": "Represented by the Greek letter Phi (φ), the ratio occurs when a segment is divided such that the ratio of the whole to the longer part equals the ratio of the longer part to the shorter part.",
+      "whyItMatters": "Architects, product designers, and Renaissance painters (like Leonardo da Vinci) intentionally applied the spiral ratio to balance visual compositions.",
+      "example": "Sunflower seed patterns, nautilus shells, the Parthenon in Athens, and modern smartphone UI design grids mirror this proportion.",
+      "sourceReference": { "name": "Journal of Aesthetics and Art Criticism", "url": "https://academic.oup.com/jaac" },
+      "resources": [
+        { "type": "article", "title": "Golden Ratio — World History Encyclopedia", "url": "https://www.worldhistory.org/Golden_Ratio/" }
+      ]
+    }
+  },
+  {
+    "id": "rand-001",
+    "group": "Curiosity",
+    "category": "Random Facts",
+    "levelNum": 1,
+    "title": "Honey Never Spoils: 3,000-Year Preservation",
+    "level1": {
+      "summary": "Archaeologists excavating ancient Egyptian tombs have uncovered pots of honey over 3,000 years old that remain completely edible."
+    },
+    "level2": {
+      "howItWorks": "Honey's unique chemistry—extremely low moisture content, high acidity (pH 3 to 4.5), and hydrogen peroxide produced by bee enzymes—creates an environment inhospitable to bacteria and microorganisms.",
+      "whyItMatters": "It showcases natural biochemical preservation mechanisms without synthetic preservatives.",
+      "example": "Sealed in airtight jars, honey retains its chemical stability indefinitely across millennia.",
+      "sourceReference": { "name": "Smithsonian Magazine Science", "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/" },
+      "resources": [
+        { "type": "article", "title": "The Science Behind Honey's Eternal Shelf Life — Smithsonian", "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/" }
+      ]
+    }
+  },
+  {
+    "id": "astro-002",
+    "group": "Science",
+    "category": "Astronomy",
+    "levelNum": 2,
+    "title": "Dark Matter & Unsolved Cosmic Masses",
+    "level1": {
+      "summary": "Level 2 Advanced: Over 85% of matter in the universe is invisible and undetectable except through its gravitational pull on galaxies."
+    },
+    "level2": {
+      "howItWorks": "Galactic rotation curves show outer stars moving faster than visible mass allows. Unseen 'dark matter halos' must exist to prevent galaxies from flying apart.",
+      "whyItMatters": "It forces scientists to question whether our current Understanding of Gravity or Particle Physics is fundamentally incomplete.",
+      "example": "Observing an invisible dancer spinning a partner across a stage—you see the partner swinging in circles, proving the invisible dancer's gravitational presence.",
+      "sourceReference": { "name": "NASA Chandra X-Ray Observatory", "url": "https://chandra.harvard.edu/darkmatter/" },
+      "resources": [
+        { "type": "article", "title": "Dark Matter Overview — NASA Science", "url": "https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-matter" }
+      ]
+    }
+  },
+  {
+    "id": "neuro-002",
+    "group": "The Mind",
+    "category": "Neuroscience",
+    "levelNum": 3,
+    "title": "The Hard Problem of Consciousness",
+    "level1": {
+      "summary": "Level 3 Theories & Discoveries: Why and how physical brain signals produce subjective, felt experiences ('qualia') remains science's greatest puzzle."
+    },
+    "level2": {
+      "howItWorks": "Coined by philosopher David Chalmers. We can map electrical signals for color, pain, or sound, but explaining *why* physical electrical firings feel like the vivid experience of seeing red remains unexplained.",
+      "whyItMatters": "It impacts artificial intelligence ethics, neuroscience theories of mind, and medical understanding of consciousness.",
+      "example": "A robot analyzing wavelength 700nm can detect 'red', but does not *experience* the subjective sensation of redness.",
+      "sourceReference": { "name": "Journal of Consciousness Studies", "url": "https://www.imprint.co.uk/jcs/" },
+      "resources": [
+        { "type": "article", "title": "Consciousness — Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/entries/consciousness/" }
+      ]
+    }
+  }
+]
