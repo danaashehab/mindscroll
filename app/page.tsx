@@ -1,12 +1,5 @@
-import styles from "./page.module.css";
+import { AppShell } from '@/components/AppShell';
 
 export default function Home() {
-  return (
-    <div className={styles.page}>
-      <div className={styles.card}>
-        <div className={styles.logo}>MindScroll</div>
-        <p className={styles.status}>Foundations deploy — Day 1 of 10.</p>
-      </div>
-    </div>
-  );
+  return <AppShell />;
 }
